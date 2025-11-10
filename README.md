@@ -10,13 +10,13 @@
 ## Продемонстрирован пример создания инфраструктуры проекта: 
 - Создан [билд в jenkins](https://jenkins.autotests.cloud/job/C22_Giv_vik_IXBT_full_project/)
 ![image](/Screenshots/Jenkins.jpg)
-- К прогонам в Jenkins добавляется [allure отчет](https://jenkins.autotests.cloud/job/C22_Giv_vik_IXBT_full_project/2/allure/#suites) к которому приложены:
+- К прогонам в Jenkins добавляется [allure отчет](https://jenkins.autotests.cloud/job/C22_Giv_vik_IXBT_full_project/3/allure/#suites/4926527c90cb9773e89d0092e20d386e/a639983e3f5b9c23/) к которому приложены:
   - Скриншот
   - Логи браузера
   - Ресурс страницы
   - Видео прохождение теста 
 ![image](/Screenshots/Allure.jpg)
-- Кейсы из прогона добавляются в [TestOps](https://allure.autotests.cloud/project/4825/test-cases/38830?treeId=9437)
+- Кейсы из прогона добавляются в [TestOps](https://allure.autotests.cloud/project/4991/test-cases/40949?treeId=0)
 ![image](/Screenshots/TestOps.jpg)
 - Настроен запуск автотестов из TestOps
 - После прогона в телеграм отправляется отчет о прохождении тестов
