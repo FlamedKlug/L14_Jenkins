@@ -20,4 +20,4 @@
 ![image](https://github.com/TukinAlexey/qa_guru_python_hw_14_full_project-/blob/main/files/TestOps_1.png)
 - Настроен запуск автотестов из TestOps
 - После прогона в телеграм отправляется отчет о прохождении тестов
-![image](https://github.com/TukinAlexey/qa_guru_python_hw_14_full_project-/blob/main/files/Telegram_1.png)
+![image](https://github.com/FlamedKlug/L14_Jenkins/blob/main/Screenshots/tg_report.jpg)
